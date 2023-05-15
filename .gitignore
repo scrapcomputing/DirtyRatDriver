@@ -1,0 +1,6 @@
+*.o
+*.map
+*.com
+*.bin
+bin2exe
+bin/
